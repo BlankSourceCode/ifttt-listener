@@ -9,8 +9,11 @@
         "url": "https://github.com/CodeMooseUS/ifttt-listener.git"
     },
     "license": "MIT",
-    "dependencies": {},
+    "dependencies": {
+        "samsung-remote": "^1.2.5"
+    },
     "devDependencies": {
+        "@types/node": "^9.4.6",
         "ts-loader": "^3.5.0",
         "typescript": "^2.7.2",
         "webpack": "^3.11.0"
