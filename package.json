@@ -1,0 +1,19 @@
+{
+    "name": "ifttt-listener",
+    "version": "1.0.0",
+    "description": "simple node server for ifttt webhook commands",
+    "main": "index.js",
+    "author": "CodeMooseUS",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CodeMooseUS/ifttt-listener.git"
+    },
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+        "ts-loader": "^3.5.0",
+        "typescript": "^2.7.2",
+        "webpack": "^3.11.0"
+    },
+    "scripts": {}
+}
